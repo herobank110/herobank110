@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - 🔭 I’m currently working on games, game engine
 - 🌱 I’m currently learning C++, Typescript
 - 👯 I’m looking to collaborate on games
